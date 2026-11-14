@@ -7,4 +7,4 @@ My passion for connecting communities also shaped my leadership in the Democrati
 
 
 LinkedIn profile: https://www.linkedin.com/in/jaronmutombo
-https://github.com/Jaronmutombo/Jaronmutombo01.git
+Git: https://github.com/Jaronmutombo/Jaronmutombo01.git
